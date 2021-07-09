@@ -1,0 +1,29 @@
+{
+  "contributors": [
+    {
+      "name": "MuratColyaran (https://github.com/Muratcol)",
+      "email": "muratcolyaran@yahoo.com.tr"
+    }
+  ],
+  "dependencies": {
+    "@types/node": "*"
+  },
+  "description": "TypeScript definitions for hq-gifencoder",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/gif-encoder",
+  "license": "MIT",
+  "main": "index.d.ts",
+  "name": "@types/hq-gifencoder",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/hq-gifencoder"
+  },
+  "scripts": {},
+  "typeScriptVersion": "3.6",
+  "types": "index.d.ts",
+  "version": "0.1.0",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "author": "MuratColyaran"
+}
